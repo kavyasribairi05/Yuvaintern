@@ -1,7 +1,4 @@
 
-# YuvaIntern Internship Task
-# Project: Data Preprocessing using Python, NumPy and Pandas
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
